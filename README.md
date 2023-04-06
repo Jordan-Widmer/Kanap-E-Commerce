@@ -1,23 +1,21 @@
-# Site e-commerce en JavaScript
+# Kanap Shop
 
-## Projet 5 - Construisez un site e-commerce en JavaScript "Kanap"
+Kanap Shop is an e-commerce website project built with JavaScript. This project evaluates the ability to manage JavaScript events, validate external data, create test plans, interact with web services, and follow functional and technical specifications.
 
-#### Compétences évaluées
+## Skills evaluated
 
-Gérer des événements JavaScript,
-Valider des données issues de sources externes,
-Créer un plan de test pour une application,
-Interagir avec un web service avec JavaScript,
-Respecter les spécifications fonctionnelles et techniques.
+• Managing JavaScript events                                 
+• Validating external data                                 
+• Creating test plans for applications                                 
+• Interacting with web services using JavaScript                                 
+• Adhering to functional and technical specifications                                 
 
-### Prérequis back-end ###
+##Back-end requirements
 
-Vous aurez besoin d'avoir Node et `npm` installés localement sur votre machine.
+To run the back-end of this project, you will need Node and npm installed on your local machine.
 
-### Installation back-end ###
+## Installation
 
-Clonez ce dépôt. Depuis le dossier "back" du projet, exécutez `npm install`. Toi
-peut alors exécuter le serveur avec `node server`.
-Le serveur doit fonctionner sur `localhost` avec le port par défaut `3000`. Si la
-serveur s'exécute sur un autre port pour une raison quelconque, ceci est imprimé sur le
-console au démarrage du serveur, par ex. `Écoute sur le port 3001`.
+1. Clone this repository.
+2. From the "back" folder of the project, run npm install.
+3. You can then run the server with node server. The server should run on localhost with the default port of 3000. If the server is running on another port for any reason, it will be printed on the console at server startup (e.g. Listening on port 3001).
